@@ -7,7 +7,7 @@ In libraries such as Matplotlib, Numpy, Seaborn, I developed a model that calcul
 Here, left section means probability factor in each iteration
 
 Right section means probabilities of similarity.
-As increasing the iterations ratios shift to theoratical results.
+- As increasing the iterations ratios shift to theoratical results.
 
 Probability Factor:
 - 0: if every dice is the same.
