@@ -2,4 +2,4 @@
 In libraries such as Matplotlib, Numpy, Seaborn, I developed a model that calculates the similarity ratio of a dice with Monte Carlo simulation (with iterations) and draws its linear regression line.
 
 
-<img  src = "https://user-images.githubusercontent.com/25516047/187803254-d154c187-7994-4b23-9975-aed688fc128f.PNG" align="left" height="48" width="48" />
+<img  src = "https://user-images.githubusercontent.com/25516047/187803254-d154c187-7994-4b23-9975-aed688fc128f.PNG" align="left" height="640" width="640" />
