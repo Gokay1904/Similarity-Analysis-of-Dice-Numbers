@@ -3,3 +3,12 @@ In libraries such as Matplotlib, Numpy, Seaborn, I developed a model that calcul
 
 
 <img  src = "https://user-images.githubusercontent.com/25516047/187803254-d154c187-7994-4b23-9975-aed688fc128f.PNG" align="center" height="640" width=auto />
+
+Here, left section means probability factor in each iteration
+
+Right section means probabilities of similarity.
+
+Probability Factor:
+- 0: if every dice is the same.
+- 1: if at least 1 is the same.
+- and so on...
