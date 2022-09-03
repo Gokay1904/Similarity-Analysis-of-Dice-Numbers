@@ -6,7 +6,7 @@ Optionally:
 - You can change the number of dice surfaces
 - You can change simulation amounts.
 - You can change how many dice to roll at once
-- ** Important: Be careful not to exceed the Array capacity. **
+- **Important: Be careful not to exceed the Array capacity.**
 
 
 
