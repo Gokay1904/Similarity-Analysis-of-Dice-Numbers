@@ -3,9 +3,10 @@ In libraries such as Matplotlib, Numpy, Seaborn, I developed a model that calcul
 
 Optionally:
 
-- You can change the number of dice surfaces
-- You can change iteration amounts.
-- You can change how many dice to roll at once
+- You can change 
+-- the number of dice surfaces
+-- You can change iteration amounts.
+-- You can change how many dice to roll at once
 - **Important: Be careful not to exceed the numpy array capacity.**
 
 
